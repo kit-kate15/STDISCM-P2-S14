@@ -1,1 +1,0 @@
-# STDISCM-P2-S14
