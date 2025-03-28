@@ -1,0 +1,4 @@
+1. Open the command prompt or terminal
+2. Navigate to the project folder
+3. Compile the program: javac LFG.java
+4. Run the program: java LFG
